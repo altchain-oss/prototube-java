@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.m2
+target
+phabricator-comment
+*/.classpath
+*/.project
+*/.settings
+*.iml
+*/*.iml
+Dockerfile
+.project
+.settings/
+*/bin/
